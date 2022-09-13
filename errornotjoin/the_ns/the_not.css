@@ -1,0 +1,54 @@
+.not_n_line_firts
+{
+    width: 20px;
+    height: 100px;
+    background-color: #2f3550;
+    position: absolute;
+    left: 760px;
+    bottom: 450px;
+    box-shadow: 10px 10px 10px black;
+    border-radius: 10px;
+}
+.not_n_round
+{
+    width: 20px;
+    height: 20px;
+    background-color: #2f3550;
+    position: absolute;
+    left: 760px;
+    bottom: 539px;
+    border-top-left-radius: 100%;
+    rotate: 50deg;
+} 
+.not_n_side_line_one
+{
+    width: 120px;
+    height: 20px;
+    background-color: #2f3550;
+    position: absolute;
+    left: 750px;
+    bottom: 490px;
+    rotate: 50deg;
+}
+.not_n_two_rounf_two
+{
+    width: 20px;
+    height: 20px;
+    background-color: #2f3550;
+    position: absolute;
+    left: 840px;
+    bottom: 443px;
+    border-top-left-radius: 100%;
+    rotate:220deg;
+}
+.not_n_next_line
+{
+    width: 20px;
+    height: 100px;
+    background-color: #2f3550;
+    position: absolute;
+    left: 844px;
+    bottom: 450px;
+    border-radius: 10px;
+
+}

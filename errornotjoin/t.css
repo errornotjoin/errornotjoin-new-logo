@@ -1,0 +1,28 @@
+.top_t
+{
+ width: 100px;
+ height: 20px;
+ 
+ background-color: #2f3550;
+
+ position: absolute;
+ left: 1030px;
+ bottom: 530px;
+
+ border-radius: 10px;
+ box-shadow: 10px 10px 10px black;
+}
+.bottom_t
+{
+    width: 20px;
+    height: 100px;
+    
+    background-color: #2f3550;
+   
+    position: absolute;
+    left: 1069px;
+    bottom: 439px;
+   
+    border-radius: 10px;
+    box-shadow: 10px 10px 10px black;
+}

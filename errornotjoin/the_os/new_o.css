@@ -1,0 +1,96 @@
+.Line_up_o_one
+{
+    position: absolute;
+    left: 900px;
+    bottom: 455px;
+
+    width: 20px;
+    height: 80px;
+
+    box-shadow: 10px 10px 10px black;
+    background-color: #2f3550;
+}
+.Line_up_o_c_one
+{
+    width: 20px;
+    height: 20px;
+
+    position: absolute;
+    left: 900px;
+    bottom: 530px;
+     
+    border-top-left-radius: 50%;
+    background-color: #2f3550;
+}
+.Line_up_o_c_two
+{
+    width: 20px;
+    height: 20px;
+
+    position: absolute;
+    left: 900px;
+    bottom: 440px;
+     
+    border-bottom-left-radius: 50%;
+    background-color: #2f3550;
+}
+.Side_line_o_one, .Side_line_o_two
+{
+    background-color:#2f3550;
+
+    width: 100px;
+    height: 20px;
+
+
+}
+.Side_line_o_one
+{
+    position: absolute;
+    left: 910px;
+    bottom: 530px;
+}
+.Side_line_o_two
+{
+    position: absolute;
+    left: 910px;
+    bottom: 440px;
+}
+
+.Line_up_o_c_three
+{
+    width: 20px;
+    height: 20px;
+
+    position: absolute;
+    left: 1000px;
+    bottom: 530px;
+     
+    border-top-right-radius: 50%;
+    background-color: #2f3550;
+}
+.Line_up_o_c
+{
+    width: 20px;
+    height: 20px;
+
+    position: absolute;
+    left: 1000px;
+    bottom: 440px;
+     
+    border-bottom-right-radius: 50%;
+    background-color: #2f3550;
+
+}
+.Line_up_o_two
+{
+    position: absolute;
+    left: 1000px;
+    bottom: 455px;
+
+    width: 20px;
+    height: 80px;
+
+    box-shadow: 10px 10px 10px black;
+    background-color: #2f3550;
+
+}
