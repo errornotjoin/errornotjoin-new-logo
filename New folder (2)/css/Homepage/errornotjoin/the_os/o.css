@@ -1,0 +1,75 @@
+.o_one
+{
+    position: absolute;
+    left: 60px;
+}
+
+.Line_up_c_one,.Line_up_c_two,.Line_up_c_three, .Line_up_c
+{
+    position: absolute;
+    width: 20px;
+    background-color: #2f3550;
+    height: 20px;
+    border-top-left-radius: 50%;
+    left: 860px;
+    top: 20px;
+}
+.Line_up_c_three
+{
+    position: absolute;
+    left: 1050px;
+    border-top-left-radius: 0%;
+    border-top-right-radius: 50%;
+}
+.Line_up_c
+{
+    position: absolute;
+    left: 1050px;
+    top: 250px;
+    border-top-left-radius: 0%;
+    border-bottom-right-radius: 50%;
+}
+.Line_up_c_two
+{
+    position: absolute;
+    top: 250px;
+    border-top-left-radius: 0%;
+    border-bottom-left-radius: 50%;
+}
+.Line_up_one, .Line_up_two
+{
+    background-color: #2f3550;
+    width: 20px;
+    height: 220px;
+    box-shadow: 10px 10px 10px black;
+}
+.Line_up_one
+{
+    position: absolute;
+    left: 860px;
+    top: 30px;
+}
+.Line_up_two
+{
+    position: absolute;
+    left: 1050px;
+    top: 30px;
+}
+.Side_line_one,.Side_line_two
+{
+width: 170px;
+background-color: #2f3550;
+height: 20px;
+}
+.Side_line_one
+{
+    position: absolute;
+    left: 880px;
+    top: 20px;
+}
+.Side_line_two
+{
+    position: absolute;
+    left: 880px;
+    top: 250px;
+}

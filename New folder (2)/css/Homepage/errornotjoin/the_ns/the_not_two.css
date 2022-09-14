@@ -1,0 +1,41 @@
+.not_n_line_firts_two
+{
+    width: 20px;
+    height: 250px;
+
+    background-color: #2f3550;
+    border-radius: 10px;
+    box-shadow: 10px 10px 10px black;
+
+    position: absolute;
+    left: 1000px;
+    bottom: 180px;
+}
+.not_n_side_line_one_two
+{
+    width: 20px;
+    height: 310px;
+    rotate: -35deg;
+
+    background-color: #2f3550;
+    border-radius: 10px; 
+
+
+    position: absolute;
+    left: 1090px;
+    bottom: 140px;
+}
+.not_n_next_line_two
+{
+    width: 20px;
+    height: 250px;
+    
+
+    background-color: #2f3550;
+    border-radius: 10px; 
+    box-shadow: 10px 10px 10px black;
+
+    position: absolute;
+    left: 1170px;
+    bottom: 170px;
+}

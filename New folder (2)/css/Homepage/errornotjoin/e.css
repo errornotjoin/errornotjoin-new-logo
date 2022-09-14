@@ -1,0 +1,46 @@
+.e
+{
+    position: absolute;
+    left: 2%;    
+}
+.e_line_up
+{   width: 20px;
+    height: 250px;
+    background-color: #2f3550;
+    color: snow;
+    box-shadow: 10px 10px 10px black;
+
+    border-top-left-radius: 50%;
+    border-bottom-left-radius: 50%;
+    position: absolute;
+    top: 20px;
+    left: 40px;
+}
+
+.e_line_side_one, .e_line_side_two, .e_line_side_three
+{
+    background-color: #2f3550;
+    width: 150px;
+    height: 20px;
+    box-shadow: 10px 10px 10px black;
+    
+    border-radius: 5px;
+}
+.e_line_side_one
+{
+    position: absolute;
+    top: 249px;
+    left:58px;
+}
+.e_line_side_two
+{
+    position: absolute;
+    top: 150px;
+    left:58px;
+}
+.e_line_side_three
+{
+    position: absolute;
+    top: 20px;
+    left:58px;
+}

@@ -1,0 +1,80 @@
+.Line_up_c_one_three, .Line_up_c_two_three, .Line_up_c_three_three, .Line_up_c_three_t
+{
+    background-color:  #2f3550;
+    width: 20px;
+    height: 20px;
+}
+.Line_up_c_one_three
+{
+    position: absolute;
+    left: 550px;
+    bottom: 470px;
+    box-shadow: 10px 10px 10px black;
+    border-top-left-radius: 50%;
+
+}
+.Line_up_one_three
+{
+    position: absolute;
+    left: 550px;
+    bottom: 280px;
+
+    width: 20px;
+    height: 190px;
+
+    box-shadow: 10px 10px 10px black;
+    background-color: #2f3550;
+}
+.Line_up_c_two_three
+{
+    position: absolute;
+    left: 550px;
+    bottom: 260px;
+    border-bottom-left-radius: 50%;
+}
+.Side_line_one_three, .Side_line_two_three
+{
+    background-color: #2f3550;
+    width: 195px;
+    height: 20px;
+    
+}
+.Side_line_one_three
+{
+    position: absolute;
+    left: 560px;
+    bottom: 470px;
+}
+.Side_line_two_three
+{
+    position: absolute;
+    left: 555px;
+    bottom: 260px;
+}
+.Line_up_c_three_three
+{
+    position: absolute;
+    left: 750px;
+    bottom: 470px;
+    border-top-right-radius: 50%;
+    box-shadow: 10px 10px 10px black;
+}
+.Line_up_two_three
+{
+    position: absolute;
+    left:750px;
+    bottom: 280px;
+
+    width: 20px;
+    height: 190px;
+    
+    background-color: #2f3550;
+    box-shadow: 10px 10px 10px black;
+}
+.Line_up_c_three_t
+{
+    border-bottom-right-radius: 50%;
+    position: absolute;
+    left: 750px;
+    bottom: 260px;
+}
